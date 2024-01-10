@@ -1,0 +1,6 @@
+node_modules/ 
+# dependences java script a mettre dans un dossier node_modules a inclure dans le git ignore
+
+vendors/
+
+# inclure egalement tout ce qui est données sensibles, infos persos, mdp etc
